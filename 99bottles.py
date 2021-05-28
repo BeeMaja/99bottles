@@ -1,4 +1,5 @@
 #99 bottles of beer
+print("Starting\n")
 
 i = 99
 while i:
