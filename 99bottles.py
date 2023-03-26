@@ -1,5 +1,5 @@
 #99 bottles of beer
-print("Starting\n")
+print("Starting Beers\n")
 
 i = 99
 while i:
